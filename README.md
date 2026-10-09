@@ -1,5 +1,3 @@
-<div align="center">
-
 🌸 **anusha** · *developer & builder* 
 
 a bit about me:
@@ -9,4 +7,4 @@ a bit about me:
 - earl grey > coffee (sue me)
 - trading & crypto enthusiast
 
-</div>
+
