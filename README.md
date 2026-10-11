@@ -6,4 +6,4 @@ a bit about me:
 - currently hyper-fixated on sitcoms (b99)
 - earl grey > coffee (sue me)
 - all things trading & crypto enthusiast
-- reading right now: mastering bitcoin & quantum computing for computer scientists
+- reading right now: quantum computing for computer scientists
