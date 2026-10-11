@@ -4,11 +4,14 @@ a bit about me:
 - I love developing meaningful, data-driven tools
 - I love dance
 - currently hyper-fixated on sitcoms (b99)
+- currently reading: quantum computing for computer scientists
 - earl grey > coffee (sue me)
 - all things trading & crypto enthusiast
-- reading right now: quantum computing for computer scientists
 
 recently built:
 - order-flow imbalance strategy @ wat street
 - agentic ai dev tool for flakey test debugging
 - robotics + computer vision "sock matching" with bracket bot :P
+
+reach me on discord @lava_moon or anusha.saxena06@gmail.com <3
+happy to connect!
