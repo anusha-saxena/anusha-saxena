@@ -7,3 +7,8 @@ a bit about me:
 - earl grey > coffee (sue me)
 - all things trading & crypto enthusiast
 - reading right now: quantum computing for computer scientists
+
+recently built:
+- order-flow imbalance strategy @ wat street
+- agentic ai dev tool for flakey test debugging
+- robotics + computer vision "sock matching" with bracket bot :P
