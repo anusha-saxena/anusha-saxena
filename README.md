@@ -6,7 +6,7 @@ a bit about me:
 - currently hyper-fixated on sitcoms (b99)
 - currently reading: quantum computing for computer scientists
 - earl grey > coffee (sue me)
-- all things trading (stocks, derivatives, crypto)
+- all things trading & fintech
 
 recently built:
 - order-flow imbalance trade strategy @ wat street
